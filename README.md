@@ -1,2 +1,2 @@
-# tailwinds
+# tailwind
 Tailwind CSS
